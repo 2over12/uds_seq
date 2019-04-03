@@ -1,0 +1,8 @@
+[package]
+name = "uds_seq"
+version = "0.1.0"
+authors = ["Ian Smith <smith.ian@husky.neu.edu>"]
+edition = "2018"
+
+[dependencies]
+nix = "0.13.0"
