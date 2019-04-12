@@ -1,3 +1,5 @@
+extern crate nix;
+
 use nix::sys::socket::{self, MsgFlags,AddressFamily,SockType,SockFlag,SockAddr};
 
 use std::os::unix::io::RawFd;

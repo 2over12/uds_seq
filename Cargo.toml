@@ -2,7 +2,6 @@
 name = "uds_seq"
 version = "0.1.0"
 authors = ["Ian Smith <smith.ian@husky.neu.edu>"]
-edition = "2018"
 description = "Simple API wrapping nix for interacting with SEQ Unix domain sockets"
 license = "MIT"
 
